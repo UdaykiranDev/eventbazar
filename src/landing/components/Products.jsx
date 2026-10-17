@@ -5,6 +5,7 @@ import { HOME_CONTENT_UPDATED_EVENT, loadHomeContent } from "../../data/homeCont
 import { LOCATIONS_UPDATED_EVENT, loadLocations } from "../../data/locationStorage";
 import QuoteEnquiry from "../../shared/QuoteEnquiry";
 import { createQuotationPdfFile, downloadQuotationFile } from "../../shared/quotationPdf";
+import publicAssetUrl from "../../shared/publicAssetUrl";
 import "./Products.css";
 
 const PAGE_SIZE = 12;
@@ -165,7 +166,7 @@ const Products = ({ preview = false }) => {
               <div key={product.id} className="col-xl-3 col-lg-4 col-sm-6 col-12">
                 <article className="card catalog-card h-100">
                   <Link to={`/product/${product.id}`} className="catalog-image-link" aria-label={`View ${product.title}`}>
-                    <img src={product.image} alt={product.title} className="catalog-image" loading="lazy" />
+                    <img src={publicAssetUrl(product.image)} alt={product.title} className="catalog-image" loading="lazy" />
                     <span className="catalog-image-badge">{product.category}</span>
                     <span className="catalog-image-rating" aria-label={`${productRating.average.toFixed(1)} out of 5 stars`}>
                       <i className="fa fa-star" aria-hidden="true" /> {productRating.average.toFixed(1)}
@@ -251,7 +252,7 @@ const Products = ({ preview = false }) => {
             <div className={showAllReels ? "instagram-gallery is-expanded" : "instagram-gallery"} ref={setGalleryRail}>
               {homeContent.gallery.map((reel) => (
                 <a className="instagram-reel" key={reel.id} href={reel.instagramUrl} target="_blank" rel="noreferrer">
-                  <img src={reel.thumbnail} alt={reel.title} loading="lazy" />
+                  <img src={publicAssetUrl(reel.thumbnail)} alt={reel.title} loading="lazy" />
                   <span className="instagram-reel-shade" />
                   <span className="instagram-play" aria-hidden="true"><i className="fa fa-play" /></span>
                   <span className="instagram-reel-copy"><strong>{reel.title}</strong><small>{reel.vendor}{reel.postedAt ? ` · ${reel.postedAt}` : ""}</small></span>
@@ -279,7 +280,7 @@ const Products = ({ preview = false }) => {
                 <div className="client-review-rail" ref={setReviewRail}>
                   {homeContent.reviews.map((review) => (
                     <article className="client-review-card" key={review.id}>
-                      <img className="client-review-avatar" src={review.avatar} alt="" loading="lazy" />
+                      <img className="client-review-avatar" src={publicAssetUrl(review.avatar)} alt="" loading="lazy" />
                       <div className="client-review-name">{review.name}</div>
                       <div className="client-review-stars" aria-label={`${review.rating} out of 5 stars`}>{"★".repeat(review.rating)}{"☆".repeat(5 - review.rating)}</div>
                       <p>{review.text}</p>

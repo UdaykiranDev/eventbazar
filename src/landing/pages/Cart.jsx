@@ -3,6 +3,7 @@ import { Footer, Navbar } from "../components";
 import { useSelector, useDispatch } from "react-redux";
 import { addCart, delCart } from "../../redux/action";
 import { Link } from "react-router-dom";
+import publicAssetUrl from "../../shared/publicAssetUrl";
 
 const Cart = () => {
   const state = useSelector((state) => state.handleCart);
@@ -62,7 +63,7 @@ const Cart = () => {
                                 data-mdb-ripple-color="light"
                               >
                                 <img
-                                  src={item.image}
+                                  src={publicAssetUrl(item.image)}
                                   // className="w-100"
                                   alt={item.title}
                                   width={100}

@@ -3,6 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import { Footer, Navbar } from "../components";
 import { CATALOG_UPDATED_EVENT, flattenCatalog, loadCatalog } from "../../data/catalogStorage";
 import QuoteEnquiry from "../../shared/QuoteEnquiry";
+import publicAssetUrl from "../../shared/publicAssetUrl";
 import "../components/Products.css";
 
 const formatPrice = (price) => `₹${price.toLocaleString("en-IN")}`;
@@ -64,7 +65,7 @@ const Product = () => {
           </nav>
           <div className="row align-items-start g-4">
             <div className="col-md-6">
-              <img className="img-fluid w-100" src={product.image} alt={product.title} style={{ maxHeight: "500px", objectFit: "cover" }} />
+              <img className="img-fluid w-100" src={publicAssetUrl(product.image)} alt={product.title} style={{ maxHeight: "500px", objectFit: "cover" }} />
             </div>
             <div className="col-md-6">
               <p className="catalog-card-category">{product.category}</p>
@@ -128,7 +129,7 @@ const Product = () => {
                   <div key={item.id} className="col-lg-3 col-sm-6">
                     <article className="card catalog-card h-100">
                       <Link to={`/product/${item.id}`} className="catalog-image-link" aria-label={`View ${item.title}`}>
-                        <img className="catalog-image" src={item.image} alt={item.title} loading="lazy" />
+                        <img className="catalog-image" src={publicAssetUrl(item.image)} alt={item.title} loading="lazy" />
                       </Link>
                       <div className="catalog-card-body">
                         <p className="catalog-card-category">{item.category}</p>

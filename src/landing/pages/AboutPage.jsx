@@ -1,5 +1,6 @@
 import React from 'react'
 import { Footer, Navbar } from "../components";
+import publicAssetUrl from "../../shared/publicAssetUrl";
 const AboutPage = () => {
   return (
     <>
@@ -17,7 +18,7 @@ const AboutPage = () => {
         <div className="row">
           <div className="col-md-3 col-sm-6 mb-3 px-3">
             <div className="card h-100">
-              <img className="card-img-top img-fluid" src="../images/e-commerce/products/wedding-decor.jpg" alt="" height={160} />
+              <img className="card-img-top img-fluid" src={publicAssetUrl("/images/et-bazar/products/wedding-decor.jpg")} alt="" height={160} />
               <div className="card-body">
                 <h5 className="card-title text-center">Wedding & Reception</h5>
               </div>
@@ -25,7 +26,7 @@ const AboutPage = () => {
           </div>
           <div className="col-md-3 col-sm-6 mb-3 px-3">
             <div className="card h-100">
-              <img className="card-img-top img-fluid" src="../images/e-commerce/products/flolar-party.jpg" alt="" height={160} />
+              <img className="card-img-top img-fluid" src={publicAssetUrl("/images/et-bazar/products/flolar-party.jpg")} alt="" height={160} />
               <div className="card-body">
                 <h5 className="card-title text-center">Haldi & Mehendi</h5>
               </div>
@@ -33,7 +34,7 @@ const AboutPage = () => {
           </div>
           <div className="col-md-3 col-sm-6 mb-3 px-3">
             <div className="card h-100">
-              <img className="card-img-top img-fluid" src="../images/e-commerce/products/birthday-decor.jpg" alt="" height={160} />
+              <img className="card-img-top img-fluid" src={publicAssetUrl("/images/et-bazar/products/birthday-decor.jpg")} alt="" height={160} />
               <div className="card-body">
                 <h5 className="card-title text-center">Birthdays</h5>
               </div>
@@ -41,7 +42,7 @@ const AboutPage = () => {
           </div>
           <div className="col-md-3 col-sm-6 mb-3 px-3">
             <div className="card h-100">
-              <img className="card-img-top img-fluid" src="../images/e-commerce/products/floral-decor.jpg" alt="" height={160} />
+              <img className="card-img-top img-fluid" src={publicAssetUrl("/images/et-bazar/products/floral-decor.jpg")} alt="" height={160} />
               <div className="card-body">
                 <h5 className="card-title text-center">Floral Decor</h5>
               </div>
