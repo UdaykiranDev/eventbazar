@@ -62,8 +62,8 @@ Before running this project, make sure you have the following installed on your 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/event-bazar.git
-cd event-bazar
+git clone https://github.com/UdaykiranDev/eventbazar.git
+cd eventbazar
 ```
 
 2. Install dependencies
@@ -93,6 +93,24 @@ npm run build
 ```
 
 The build output is generated in the `build/` folder.
+
+## Deploy to GitHub Pages
+
+This repository is configured to deploy automatically to GitHub Pages whenever changes are pushed to `main`. The deployment workflow builds the app and publishes the `build/` folder.
+
+1. Push your changes to the `main` branch:
+
+```bash
+git add .
+git commit -m "Describe your changes"
+git push origin main
+```
+
+2. In GitHub, open **Settings → Pages** for this repository and set **Build and deployment → Source** to **GitHub Actions**.
+3. Open the **Actions** tab and wait for the **Deploy to GitHub Pages** workflow to finish.
+4. Visit [https://udaykirandev.github.io/eventbazar/](https://udaykirandev.github.io/eventbazar/).
+
+Routes use URL fragments (for example, `/#/product`) so app pages continue to work when opened or refreshed on GitHub Pages.
 
 ## App Features
 
@@ -152,4 +170,3 @@ This project is intended for demo and showcase use.
 ## Contact
 
 For project questions or future enhancement requests, use the project maintainer contact in the repository or your internal team communication channels.
-

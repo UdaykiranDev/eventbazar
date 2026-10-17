@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <>
       <section className="event-hero" aria-labelledby="event-hero-title">
-        <img className="event-hero-image" src="/assets/main.png.jpg" alt="Colorful floral stage decoration for a celebration" />
+        <img className="event-hero-image" src={`${process.env.PUBLIC_URL}/assets/main.png.jpg`} alt="Colorful floral stage decoration for a celebration" />
         <div className="event-hero-content">
           <div className="event-hero-copy">
             <p className="event-hero-kicker">Event styling · Palasa & Vizianagaram</p>
