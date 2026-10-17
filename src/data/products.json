@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "3D Mandap Mat Decor",
+    "category": "Wedding & Reception",
+    "price": 2230,
+    "description": "A detailed 3D floor mat design to bring an elegant finish to wedding and reception stages.",
+    "image": "/images/et-bazar/products/3d-mat-decor.jpg",
+    "reviews": [{ "name": "Aarav S.", "rating": 5, "comment": "The finish looked beautiful in our wedding photos." }]
+  },
+  {
+    "id": 2,
+    "title": "Classic Entrance Decor",
+    "category": "Wedding & Reception",
+    "price": 3200,
+    "description": "A welcoming entrance arrangement designed to set the tone for a memorable celebration.",
+    "image": "/images/et-bazar/products/before-decor.jpg",
+    "reviews": [{ "name": "Meera P.", "rating": 5, "comment": "The entrance was arranged on time and looked wonderful." }]
+  },
+  {
+    "id": 3,
+    "title": "Birthday Celebration Decor",
+    "category": "Birthdays",
+    "price": 2800,
+    "description": "A colorful birthday setup with a photo-ready focal point for family and friends.",
+    "image": "/images/et-bazar/products/birthday-decor.jpg",
+    "reviews": [{ "name": "Ritika M.", "rating": 4, "comment": "Great colors and a lovely setup for the celebration." }]
+  },
+  {
+    "id": 4,
+    "title": "Floral Celebration Decor",
+    "category": "Floral Decor",
+    "price": 3600,
+    "description": "A fresh floral arrangement suited to ceremonies, intimate gatherings, and special occasions.",
+    "image": "/images/et-bazar/products/floral-decor.jpg",
+    "reviews": [{ "name": "Nisha K.", "rating": 5, "comment": "The flowers were fresh and the arrangement felt premium." }]
+  },
+  {
+    "id": 5,
+    "title": "Wedding Stage Decor",
+    "category": "Wedding & Reception",
+    "price": 12500,
+    "description": "A statement stage arrangement that creates a polished backdrop for the main ceremony.",
+    "image": "/images/et-bazar/products/wedding-decor.jpg",
+    "reviews": [{ "name": "Karan D.", "rating": 5, "comment": "The stage was exactly the centerpiece we wanted." }]
+  },
+  {
+    "id": 6,
+    "title": "Upper Canopy Decor",
+    "category": "Wedding & Reception",
+    "price": 5900,
+    "description": "Decorative overhead styling that adds depth and detail to wedding venues.",
+    "image": "/images/et-bazar/products/upper-decor.jpg",
+    "reviews": [{ "name": "Isha R.", "rating": 4, "comment": "A beautiful addition that made the venue feel complete." }]
+  },
+  {
+    "id": 7,
+    "title": "Layered Stage Backdrop",
+    "category": "Wedding & Reception",
+    "price": 9800,
+    "description": "A layered backdrop with a refined look for wedding ceremonies and receptions.",
+    "image": "/images/et-bazar/products/stage-decor2.jpg",
+    "reviews": [{ "name": "Dev A.", "rating": 5, "comment": "Excellent backdrop and very professional setup." }]
+  },
+  {
+    "id": 8,
+    "title": "Ceremony Stage Styling",
+    "category": "Wedding & Reception",
+    "price": 8400,
+    "description": "Coordinated stage details for a warm, elegant ceremony setting.",
+    "image": "/images/et-bazar/products/stage-decor.jpg",
+    "reviews": [{ "name": "Sonal B.", "rating": 5, "comment": "Everything was neat and beautifully coordinated." }]
+  },
+  {
+    "id": 9,
+    "title": "Side Floral Decor",
+    "category": "Floral Decor",
+    "price": 2100,
+    "description": "A versatile side arrangement to frame stages, entrances, and event spaces.",
+    "image": "/images/et-bazar/products/side-decor.jpg",
+    "reviews": [{ "name": "Tanya L.", "rating": 4, "comment": "Looked lovely alongside the main stage decor." }]
+  },
+  {
+    "id": 10,
+    "title": "Signature Floral Installation",
+    "category": "Floral Decor",
+    "price": 4500,
+    "description": "A statement floral installation to add texture and color to your event venue.",
+    "image": "/images/et-bazar/products/image-decor.jpg",
+    "reviews": [{ "name": "Rohan C.", "rating": 5, "comment": "A standout feature and worth every bit of the planning." }]
+  },
+  {
+    "id": 11,
+    "title": "Haldi & Mehendi Setup",
+    "category": "Haldi & Mehendi",
+    "price": 6500,
+    "description": "A vibrant, festive setting designed for colorful haldi and mehendi celebrations.",
+    "image": "/images/et-bazar/products/haldi-mehendi.jpg",
+    "reviews": [{ "name": "Priya J.", "rating": 5, "comment": "Bright, joyful decor that made the function feel special." }]
+  },
+  {
+    "id": 12,
+    "title": "Full Venue Decor",
+    "category": "Wedding & Reception",
+    "price": 18500,
+    "description": "Coordinated decor details for a cohesive look throughout your celebration venue.",
+    "image": "/images/et-bazar/products/full-decor.jpg",
+    "reviews": [{ "name": "Ankit V.", "rating": 5, "comment": "The whole venue felt cohesive and thoughtfully styled." }]
+  },
+  {
+    "id": 13,
+    "title": "Floral Party Arrangement",
+    "category": "Floral Decor",
+    "price": 3900,
+    "description": "A floral-led party arrangement for birthdays, receptions, and private events.",
+    "image": "/images/et-bazar/products/flolar-party.jpg",
+    "reviews": [{ "name": "Maya T.", "rating": 4, "comment": "Lovely arrangement and easy communication throughout." }]
+  },
+  {
+    "id": 14,
+    "title": "Grand Entrance Styling",
+    "category": "Wedding & Reception",
+    "price": 5100,
+    "description": "A grand entrance design to welcome guests into your celebration.",
+    "image": "/images/et-bazar/products/enternce-decor.jpg",
+    "reviews": [{ "name": "Neha G.", "rating": 5, "comment": "Guests loved the entrance and took lots of photos there." }]
+  },
+  {
+    "id": 15,
+    "title": "Full Celebration Styling",
+    "category": "Wedding & Reception",
+    "price": 16000,
+    "description": "A complete visual styling package for a memorable, well-coordinated event.",
+    "image": "/images/et-bazar/products/decorfull.jpg",
+    "reviews": [{ "name": "Kabir N.", "rating": 5, "comment": "Great coordination and a polished result from start to finish." }]
+  },
+  {
+    "id": 16,
+    "title": "Digital Event Decor",
+    "category": "Birthdays",
+    "price": 4700,
+    "description": "A modern decor concept combining graphic elements with a clean event setup.",
+    "image": "/images/et-bazar/products/digitaldecor.jpg",
+    "reviews": [{ "name": "Aditi W.", "rating": 4, "comment": "Modern look and a smooth booking experience." }]
+  },
+  {
+    "id": 17,
+    "title": "Digital Backdrop Decor",
+    "category": "Birthdays",
+    "price": 4200,
+    "description": "A contemporary backdrop option for birthdays and other milestone celebrations.",
+    "image": "/images/et-bazar/products/digital-decor2.jpg",
+    "reviews": [{ "name": "Vikram S.", "rating": 5, "comment": "The backdrop made a perfect photo spot for our party." }]
+  },
+  {
+    "id": 18,
+    "title": "Ceremony Stage Arrangement",
+    "category": "Wedding & Reception",
+    "price": 8900,
+    "description": "A balanced stage arrangement for ceremonies, family events, and receptions.",
+    "image": "/images/et-bazar/products/decor-stage.jpg",
+    "reviews": [{ "name": "Simran H.", "rating": 5, "comment": "Beautiful stage decor and punctual setup." }]
+  },
+  {
+    "id": 19,
+    "title": "Cycle Theme Decor",
+    "category": "Haldi & Mehendi",
+    "price": 3300,
+    "description": "A playful themed decoration that brings a distinctive touch to festive functions.",
+    "image": "/images/et-bazar/products/cycle-decor.jpg",
+    "reviews": [{ "name": "Harsh P.", "rating": 4, "comment": "A fun detail that made our setup feel unique." }]
+  },
+  {
+    "id": 20,
+    "title": "Decorative Ceiling Styling",
+    "category": "Floral Decor",
+    "price": 7200,
+    "description": "Overhead decorative styling that transforms the look and feel of your venue.",
+    "image": "/images/et-bazar/products/ceiling-decor2.jpg",
+    "reviews": [{ "name": "Pallavi E.", "rating": 5, "comment": "The ceiling details changed the whole atmosphere of the room." }]
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "gallery": [
+    {
+      "id": "reel-wedding-entry",
+      "title": "Wedding Reception Entrance",
+      "vendor": "Event Bazar Decor",
+      "thumbnail": "/images/et-bazar/products/wedding-decor.jpg",
+      "instagramUrl": "https://www.instagram.com/reel/Ddfrh7koY1p/",
+      "postedAt": "2 months ago"
+    },
+    {
+      "id": "reel-floral-stage",
+      "title": "Floral Stage Details",
+      "vendor": "Event Bazar Decor",
+      "thumbnail": "/images/et-bazar/products/floral-decor.jpg",
+      "instagramUrl": "https://www.instagram.com/reel/DddKO58vPsO/",
+      "postedAt": "4 months ago"
+    },
+    {
+      "id": "reel-event-experience",
+      "title": "A Night to Remember",
+      "vendor": "Event Bazar Events",
+      "thumbnail": "/images/et-bazar/products/decorfull.jpg",
+      "instagramUrl": "https://www.instagram.com/reel/DdTuhvQvSLW/",
+      "postedAt": "3 months ago"
+    },
+    {
+      "id": "reel-cocktail-party",
+      "title": "Luxury Cocktail Party",
+      "vendor": "Event Bazar Events",
+      "thumbnail": "/images/et-bazar/products/enternce-decor.jpg",
+      "instagramUrl": "https://www.instagram.com/reel/Dc0BImWzOWN/",
+      "postedAt": "4 months ago"
+    },
+    {
+      "id": "reel-haldi-mehendi",
+      "title": "Haldi Celebration",
+      "vendor": "Event Bazar Decor",
+      "thumbnail": "/images/et-bazar/products/haldi-mehendi.jpg",
+      "instagramUrl": "https://www.instagram.com/reel/Dc5MDZRvXC5/",
+      "postedAt": "5 months ago"
+    },
+    {
+      "id": "reel-baby-shower",
+      "title": "Baby Shower Decor",
+      "vendor": "Event Bazar Decor",
+      "thumbnail": "/images/et-bazar/products/birthday-decor.jpg",
+      "instagramUrl": "https://www.instagram.com/reel/Dc7rMF2T_hI/",
+      "postedAt": "5 months ago"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "review-jai-ranawat",
+      "name": "Jai Ranawat",
+      "event": "Wedding",
+      "rating": 5,
+      "text": "I was struggling to find the right vendors for my wedding, but EventBazar.com connected me with the best professionals in no time!",
+      "avatar": "/images/et-bazar/team/person1.jpg",
+      "isSample": true
+    },
+    {
+      "id": "review-pooja-meghwal",
+      "name": "Pooja Meghwal",
+      "event": "Multi-vendor event",
+      "rating": 5,
+      "text": "A one stop solution for all event needs! I booked catering, decor, and a DJ all in one place. Super convenient and reliable service.",
+      "avatar": "/images/et-bazar/team/person2.jpg",
+      "isSample": true
+    },
+    {
+      "id": "review-harsh-verma",
+      "name": "Harsh Verma",
+      "event": "Vendor discovery",
+      "rating": 5,
+      "text": "Loved the transparency! Every vendor had detailed reviews, pricing, and portfolios, making it easier to choose the right one.",
+      "avatar": "/images/et-bazar/team/person3.jpg",
+      "isSample": true
+    },
+    {
+      "id": "review-mahesh-solanki",
+      "name": "Mahesh Solanki",
+      "event": "Short-notice booking",
+      "rating": 5,
+      "text": "I was worried about last minute bookings, but EventBazar.com had great options even on short notice. Very reliable service!",
+      "avatar": "/images/et-bazar/team/person4.jpg",
+      "isSample": true
+    },
+    {
+      "id": "review-meenal-singh",
+      "name": "Meenal Singh",
+      "event": "Event planning",
+      "rating": 5,
+      "text": "Great platform for event planning! I didn’t have to call multiple vendors; the site did all the work for me.",
+      "avatar": "/images/et-bazar/team/person5.jpg",
+      "isSample": true
+    },
+    {
+      "id": "review-sandhya-dhanjani",
+      "name": "Sandhya Dhanjani",
+      "event": "Catering",
+      "rating": 5,
+      "text": "The reviews and ratings on EventBazar.com helped me find the best caterer for my party. The food and service were outstanding!",
+      "avatar": "/images/et-bazar/team/person6.jpg",
+      "isSample": true
+    }
+  ]
+}

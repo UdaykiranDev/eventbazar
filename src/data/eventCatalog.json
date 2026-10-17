@@ -1,0 +1,162 @@
+[
+  {
+    "category": "Decoration materials",
+    "description": "Finishing materials and decorative details for event styling.",
+    "products": [
+      { "id": 1, "title": "Mirror-finish aisle panels", "salePrice": 2400, "rentalPricePerDay": 450, "image": "/images/et-bazar/products/3d-mat-decor.jpg" },
+      { "id": 2, "title": "Decorative backdrop fabric set", "salePrice": 3800, "rentalPricePerDay": 700, "image": "/images/et-bazar/products/before-decor.jpg" },
+      { "id": 3, "title": "Gold trim table runners", "salePrice": 1250, "rentalPricePerDay": 250, "image": "/images/et-bazar/products/decorfull.jpg" },
+      { "id": 4, "title": "Printed event floor mat", "salePrice": 2100, "rentalPricePerDay": 400, "image": "/images/et-bazar/products/full-decor.jpg" },
+      { "id": 5, "title": "Decorative brass-look stands", "salePrice": 3200, "rentalPricePerDay": 600, "image": "/images/et-bazar/products/image-decor.jpg" },
+      { "id": 6, "title": "Velvet drape bundle", "salePrice": 4600, "rentalPricePerDay": 850, "image": "/images/et-bazar/products/side-decor.jpg" },
+      { "id": 7, "title": "Patterned aisle runner", "salePrice": 1900, "rentalPricePerDay": 350, "image": "/images/et-bazar/products/upper-decor.jpg" },
+      { "id": 8, "title": "Decorative frame set", "salePrice": 2800, "rentalPricePerDay": 500, "image": "/images/et-bazar/products/decor-stage.jpg" },
+      { "id": 9, "title": "Event styling prop bundle", "salePrice": 3400, "rentalPricePerDay": 650, "image": "/images/et-bazar/products/digitaldecor.jpg" },
+      { "id": 10, "title": "Textured wall panel set", "salePrice": 5200, "rentalPricePerDay": 950, "image": "/images/et-bazar/products/digital-decor2.jpg" }
+    ]
+  },
+  {
+    "category": "Flower decorations",
+    "description": "Floral arrangements and accents for ceremonies, stages, and venues.",
+    "products": [
+      { "id": 11, "title": "Rose welcome arrangement", "salePrice": 3200, "rentalPricePerDay": 900, "image": "/images/et-bazar/products/floral-decor.jpg" },
+      { "id": 12, "title": "Mixed-flower table centerpiece", "salePrice": 1800, "rentalPricePerDay": 500, "image": "/images/et-bazar/products/flolar-party.jpg" },
+      { "id": 13, "title": "Floral arch arrangement", "salePrice": 7800, "rentalPricePerDay": 1800, "image": "/images/et-bazar/products/wedding-decor.jpg" },
+      { "id": 14, "title": "Marigold hanging strings", "salePrice": 950, "rentalPricePerDay": 300, "image": "/images/et-bazar/products/haldi-mehendi.jpg" },
+      { "id": 15, "title": "Pastel flower aisle clusters", "salePrice": 4200, "rentalPricePerDay": 1100, "image": "/images/et-bazar/products/side-decor.jpg" },
+      { "id": 16, "title": "Floral welcome board surround", "salePrice": 2600, "rentalPricePerDay": 700, "image": "/images/et-bazar/products/enternce-decor.jpg" },
+      { "id": 17, "title": "Jasmine-inspired garland set", "salePrice": 1450, "rentalPricePerDay": 400, "image": "/images/et-bazar/products/image-decor.jpg" },
+      { "id": 18, "title": "Floral ceiling installation", "salePrice": 8900, "rentalPricePerDay": 2200, "image": "/images/et-bazar/products/ceiling-decor2.jpg" },
+      { "id": 19, "title": "Table-length flower runner", "salePrice": 2300, "rentalPricePerDay": 650, "image": "/images/et-bazar/products/full-decor.jpg" },
+      { "id": 20, "title": "Floral photo corner kit", "salePrice": 5600, "rentalPricePerDay": 1400, "image": "/images/et-bazar/products/decorfull.jpg" }
+    ]
+  },
+  {
+    "category": "Stage decorations",
+    "description": "Stage backdrops, seating accents, and focal-point decor.",
+    "products": [
+      { "id": 21, "title": "Classic stage backdrop", "salePrice": 18500, "rentalPricePerDay": 4800, "image": "/images/et-bazar/products/stage-decor.jpg" },
+      { "id": 22, "title": "Layered reception stage panels", "salePrice": 22000, "rentalPricePerDay": 5600, "image": "/images/et-bazar/products/stage-decor2.jpg" },
+      { "id": 23, "title": "Couple sofa stage setup", "salePrice": 14500, "rentalPricePerDay": 3900, "image": "/images/et-bazar/products/decor-stage.jpg" },
+      { "id": 24, "title": "LED-look stage frame", "salePrice": 16800, "rentalPricePerDay": 4300, "image": "/images/et-bazar/products/digitaldecor.jpg" },
+      { "id": 25, "title": "Floral stage side panels", "salePrice": 9200, "rentalPricePerDay": 2600, "image": "/images/et-bazar/products/side-decor.jpg" },
+      { "id": 26, "title": "Royal stage chair pair", "salePrice": 11200, "rentalPricePerDay": 2900, "image": "/images/et-bazar/products/wedding-decor.jpg" },
+      { "id": 27, "title": "Geometric stage wall", "salePrice": 13800, "rentalPricePerDay": 3600, "image": "/images/et-bazar/products/digital-decor2.jpg" },
+      { "id": 28, "title": "Stage riser and skirting", "salePrice": 7600, "rentalPricePerDay": 2100, "image": "/images/et-bazar/products/full-decor.jpg" },
+      { "id": 29, "title": "Reception name backdrop", "salePrice": 6400, "rentalPricePerDay": 1800, "image": "/images/et-bazar/products/image-decor.jpg" },
+      { "id": 30, "title": "Compact event stage package", "salePrice": 19800, "rentalPricePerDay": 5200, "image": "/images/et-bazar/products/decorfull.jpg" }
+    ]
+  },
+  {
+    "category": "Mandapam decorations",
+    "description": "Ceremony mandap structures and decorative elements.",
+    "products": [
+      { "id": 31, "title": "Four-pillar floral mandap", "salePrice": 28500, "rentalPricePerDay": 7600, "image": "/images/et-bazar/products/wedding-decor.jpg" },
+      { "id": 32, "title": "Carved-look mandap frame", "salePrice": 32000, "rentalPricePerDay": 8500, "image": "/images/et-bazar/products/upper-decor.jpg" },
+      { "id": 33, "title": "Open-air ceremony canopy", "salePrice": 24800, "rentalPricePerDay": 6900, "image": "/images/et-bazar/products/stage-decor.jpg" },
+      { "id": 34, "title": "Marigold mandap garland set", "salePrice": 5800, "rentalPricePerDay": 1600, "image": "/images/et-bazar/products/haldi-mehendi.jpg" },
+      { "id": 35, "title": "Mandap aisle runner set", "salePrice": 4200, "rentalPricePerDay": 1200, "image": "/images/et-bazar/products/3d-mat-decor.jpg" },
+      { "id": 36, "title": "Mandap pillar wrap set", "salePrice": 6900, "rentalPricePerDay": 1900, "image": "/images/et-bazar/products/floral-decor.jpg" },
+      { "id": 37, "title": "Traditional ceremony backdrop", "salePrice": 17600, "rentalPricePerDay": 4900, "image": "/images/et-bazar/products/decor-stage.jpg" },
+      { "id": 38, "title": "Mandap hanging bell accents", "salePrice": 3600, "rentalPricePerDay": 1000, "image": "/images/et-bazar/products/ceiling-decor2.jpg" },
+      { "id": 39, "title": "Mandap seating and floor set", "salePrice": 12800, "rentalPricePerDay": 3400, "image": "/images/et-bazar/products/full-decor.jpg" },
+      { "id": 40, "title": "Premium wedding mandap package", "salePrice": 38500, "rentalPricePerDay": 10500, "image": "/images/et-bazar/products/decorfull.jpg" }
+    ]
+  },
+  {
+    "category": "Lighting",
+    "description": "Decorative lighting options to set the mood across event spaces.",
+    "products": [
+      { "id": 41, "title": "Warm fairy light curtain", "salePrice": 2400, "rentalPricePerDay": 650, "image": "/images/et-bazar/products/ceiling-decor2.jpg" },
+      { "id": 42, "title": "Decorative pendant light set", "salePrice": 6800, "rentalPricePerDay": 1800, "image": "/images/et-bazar/products/upper-decor.jpg" },
+      { "id": 43, "title": "LED pathway marker pair", "salePrice": 1900, "rentalPricePerDay": 500, "image": "/images/et-bazar/products/enternce-decor.jpg" },
+      { "id": 44, "title": "Stage wash light pair", "salePrice": 9200, "rentalPricePerDay": 2600, "image": "/images/et-bazar/products/stage-decor.jpg" },
+      { "id": 45, "title": "String light canopy kit", "salePrice": 5200, "rentalPricePerDay": 1400, "image": "/images/et-bazar/products/ceiling-decor2.jpg" },
+      { "id": 46, "title": "Decorative lantern cluster", "salePrice": 3100, "rentalPricePerDay": 850, "image": "/images/et-bazar/products/haldi-mehendi.jpg" },
+      { "id": 47, "title": "Backdrop edge lighting kit", "salePrice": 4600, "rentalPricePerDay": 1200, "image": "/images/et-bazar/products/digital-decor2.jpg" },
+      { "id": 48, "title": "Table accent lamp set", "salePrice": 2800, "rentalPricePerDay": 750, "image": "/images/et-bazar/products/flolar-party.jpg" },
+      { "id": 49, "title": "Ceiling festoon light run", "salePrice": 7400, "rentalPricePerDay": 2000, "image": "/images/et-bazar/products/full-decor.jpg" },
+      { "id": 50, "title": "Entry arch light package", "salePrice": 8600, "rentalPricePerDay": 2300, "image": "/images/et-bazar/products/before-decor.jpg" }
+    ]
+  },
+  {
+    "category": "Artificial flowers",
+    "description": "Reusable artificial blooms and greenery for event styling.",
+    "products": [
+      { "id": 51, "title": "Artificial rose bunch, set of 12", "salePrice": 1600, "rentalPricePerDay": 450, "image": "/images/et-bazar/products/floral-decor.jpg" },
+      { "id": 52, "title": "Silk peony centerpiece", "salePrice": 2200, "rentalPricePerDay": 600, "image": "/images/et-bazar/products/flolar-party.jpg" },
+      { "id": 53, "title": "Artificial greenery garland", "salePrice": 1350, "rentalPricePerDay": 350, "image": "/images/et-bazar/products/side-decor.jpg" },
+      { "id": 54, "title": "Faux orchid table arrangement", "salePrice": 2800, "rentalPricePerDay": 750, "image": "/images/et-bazar/products/image-decor.jpg" },
+      { "id": 55, "title": "Artificial marigold string pack", "salePrice": 980, "rentalPricePerDay": 250, "image": "/images/et-bazar/products/haldi-mehendi.jpg" },
+      { "id": 56, "title": "Faux flower wall panel", "salePrice": 4900, "rentalPricePerDay": 1300, "image": "/images/et-bazar/products/wedding-decor.jpg" },
+      { "id": 57, "title": "Artificial hydrangea bundle", "salePrice": 1750, "rentalPricePerDay": 450, "image": "/images/et-bazar/products/full-decor.jpg" },
+      { "id": 58, "title": "Faux hanging vine set", "salePrice": 2100, "rentalPricePerDay": 550, "image": "/images/et-bazar/products/ceiling-decor2.jpg" },
+      { "id": 59, "title": "Artificial floral arch kit", "salePrice": 7200, "rentalPricePerDay": 1900, "image": "/images/et-bazar/products/decorfull.jpg" },
+      { "id": 60, "title": "Mixed faux flower basket pair", "salePrice": 2600, "rentalPricePerDay": 700, "image": "/images/et-bazar/products/enternce-decor.jpg" }
+    ]
+  },
+  {
+    "category": "Wedding accessories",
+    "description": "Decorative accessories and finishing touches for wedding functions.",
+    "products": [
+      { "id": 61, "title": "Decorated ring tray", "salePrice": 1450, "rentalPricePerDay": 400, "image": "/images/et-bazar/products/wedding-decor.jpg" },
+      { "id": 62, "title": "Ceremony welcome sign", "salePrice": 2200, "rentalPricePerDay": 600, "image": "/images/et-bazar/products/enternce-decor.jpg" },
+      { "id": 63, "title": "Wedding favor display stand", "salePrice": 3100, "rentalPricePerDay": 850, "image": "/images/et-bazar/products/decor-stage.jpg" },
+      { "id": 64, "title": "Bridal entry umbrella set", "salePrice": 1850, "rentalPricePerDay": 500, "image": "/images/et-bazar/products/haldi-mehendi.jpg" },
+      { "id": 65, "title": "Decorative varmala platter", "salePrice": 2600, "rentalPricePerDay": 700, "image": "/images/et-bazar/products/floral-decor.jpg" },
+      { "id": 66, "title": "Wedding table number set", "salePrice": 1250, "rentalPricePerDay": 350, "image": "/images/et-bazar/products/flolar-party.jpg" },
+      { "id": 67, "title": "Guest book signing station", "salePrice": 4800, "rentalPricePerDay": 1300, "image": "/images/et-bazar/products/before-decor.jpg" },
+      { "id": 68, "title": "Decorative ceremony kalash pair", "salePrice": 2100, "rentalPricePerDay": 550, "image": "/images/et-bazar/products/upper-decor.jpg" },
+      { "id": 69, "title": "Wedding photo frame prop", "salePrice": 1750, "rentalPricePerDay": 450, "image": "/images/et-bazar/products/digitaldecor.jpg" },
+      { "id": 70, "title": "Couple name sign", "salePrice": 2400, "rentalPricePerDay": 650, "image": "/images/et-bazar/products/digital-decor2.jpg" }
+    ]
+  },
+  {
+    "category": "Party items",
+    "description": "Party-ready props and decor for birthdays and celebrations.",
+    "products": [
+      { "id": 71, "title": "Birthday balloon arch kit", "salePrice": 3200, "rentalPricePerDay": 900, "image": "/images/et-bazar/products/birthday-decor.jpg" },
+      { "id": 72, "title": "Celebration photo booth frame", "salePrice": 4600, "rentalPricePerDay": 1250, "image": "/images/et-bazar/products/digitaldecor.jpg" },
+      { "id": 73, "title": "Party table centerpiece set", "salePrice": 2100, "rentalPricePerDay": 600, "image": "/images/et-bazar/products/flolar-party.jpg" },
+      { "id": 74, "title": "Milestone number display", "salePrice": 1850, "rentalPricePerDay": 500, "image": "/images/et-bazar/products/birthday-decor.jpg" },
+      { "id": 75, "title": "Cake table backdrop", "salePrice": 5800, "rentalPricePerDay": 1550, "image": "/images/et-bazar/products/digital-decor2.jpg" },
+      { "id": 76, "title": "Party bunting and banner set", "salePrice": 1200, "rentalPricePerDay": 350, "image": "/images/et-bazar/products/haldi-mehendi.jpg" },
+      { "id": 77, "title": "Kids party prop bundle", "salePrice": 2400, "rentalPricePerDay": 650, "image": "/images/et-bazar/products/cycle-decor.jpg" },
+      { "id": 78, "title": "Confetti table styling pack", "salePrice": 980, "rentalPricePerDay": 250, "image": "/images/et-bazar/products/full-decor.jpg" },
+      { "id": 79, "title": "Baby shower welcome setup", "salePrice": 6400, "rentalPricePerDay": 1700, "image": "/images/et-bazar/products/before-decor.jpg" },
+      { "id": 80, "title": "Party lounge seating accents", "salePrice": 5200, "rentalPricePerDay": 1400, "image": "/images/et-bazar/products/decorfull.jpg" }
+    ]
+  },
+  {
+    "category": "Return gifts",
+    "description": "Presentation-ready gift packaging and guest favor displays.",
+    "products": [
+      { "id": 81, "title": "Printed favor box set, 25 pieces", "salePrice": 1800, "rentalPricePerDay": 0, "image": "/images/et-bazar/products/birthday-decor.jpg" },
+      { "id": 82, "title": "Decorative potli favor set", "salePrice": 2400, "rentalPricePerDay": 0, "image": "/images/et-bazar/products/haldi-mehendi.jpg" },
+      { "id": 83, "title": "Personalized candle favors", "salePrice": 3200, "rentalPricePerDay": 0, "image": "/images/et-bazar/products/floral-decor.jpg" },
+      { "id": 84, "title": "Mini keepsake gift boxes", "salePrice": 2100, "rentalPricePerDay": 0, "image": "/images/et-bazar/products/decorfull.jpg" },
+      { "id": 85, "title": "Guest favor tray display", "salePrice": 3900, "rentalPricePerDay": 900, "image": "/images/et-bazar/products/image-decor.jpg" },
+      { "id": 86, "title": "Festive dry-fruit hamper wrap", "salePrice": 2800, "rentalPricePerDay": 0, "image": "/images/et-bazar/products/full-decor.jpg" },
+      { "id": 87, "title": "Thank-you tag and ribbon pack", "salePrice": 850, "rentalPricePerDay": 0, "image": "/images/et-bazar/products/flolar-party.jpg" },
+      { "id": 88, "title": "Wedding favor basket set", "salePrice": 4600, "rentalPricePerDay": 1200, "image": "/images/et-bazar/products/wedding-decor.jpg" },
+      { "id": 89, "title": "Custom favor pouch bundle", "salePrice": 1650, "rentalPricePerDay": 0, "image": "/images/et-bazar/products/side-decor.jpg" },
+      { "id": 90, "title": "Return gift counter display", "salePrice": 5400, "rentalPricePerDay": 1450, "image": "/images/et-bazar/products/enternce-decor.jpg" }
+    ]
+  },
+  {
+    "category": "Event props",
+    "description": "Statement props and photo-ready details for event moments.",
+    "products": [
+      { "id": 91, "title": "Oversized decorative letters", "salePrice": 7800, "rentalPricePerDay": 2100, "image": "/images/et-bazar/products/digitaldecor.jpg" },
+      { "id": 92, "title": "Vintage cycle display prop", "salePrice": 6400, "rentalPricePerDay": 1750, "image": "/images/et-bazar/products/cycle-decor.jpg" },
+      { "id": 93, "title": "Photo booth prop collection", "salePrice": 2600, "rentalPricePerDay": 700, "image": "/images/et-bazar/products/birthday-decor.jpg" },
+      { "id": 94, "title": "Decorative welcome easel", "salePrice": 3100, "rentalPricePerDay": 850, "image": "/images/et-bazar/products/enternce-decor.jpg" },
+      { "id": 95, "title": "Themed event cart prop", "salePrice": 9200, "rentalPricePerDay": 2500, "image": "/images/et-bazar/products/cycle-decor.jpg" },
+      { "id": 96, "title": "Decorative pillar pair", "salePrice": 5800, "rentalPricePerDay": 1600, "image": "/images/et-bazar/products/upper-decor.jpg" },
+      { "id": 97, "title": "Themed backdrop prop set", "salePrice": 4700, "rentalPricePerDay": 1300, "image": "/images/et-bazar/products/digital-decor2.jpg" },
+      { "id": 98, "title": "Decorative birdcage pair", "salePrice": 3600, "rentalPricePerDay": 950, "image": "/images/et-bazar/products/floral-decor.jpg" },
+      { "id": 99, "title": "Event photo frame stand", "salePrice": 4200, "rentalPricePerDay": 1150, "image": "/images/et-bazar/products/decor-stage.jpg" },
+      { "id": 100, "title": "Grand entry prop package", "salePrice": 12800, "rentalPricePerDay": 3400, "image": "/images/et-bazar/products/decorfull.jpg" }
+    ]
+  }
+]

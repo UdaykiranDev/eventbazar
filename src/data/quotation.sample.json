@@ -1,0 +1,22 @@
+{
+  "documentTitle": "Event Bazar Quotation",
+  "quotationPrefix": "EBQ",
+  "validityDays": 7,
+  "currency": "INR",
+  "taxesIncluded": false,
+  "sampleQuote": {
+    "customerName": "Customer Name",
+    "vendorName": "Event Bazar Vendor",
+    "eventLocation": "Palasa",
+    "product": "Decorative backdrop fabric set",
+    "category": "Decoration materials",
+    "salePrice": 3800,
+    "rentalPricePerDay": 700,
+    "rentalDurationDays": 1
+  },
+  "terms": [
+    "Prices are indicative and subject to final vendor confirmation.",
+    "Rental rate is per day. Availability, delivery, setup, and any deposit are confirmed separately.",
+    "Taxes and service charges are not included unless confirmed by the vendor."
+  ]
+}

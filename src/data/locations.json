@@ -1,0 +1,10 @@
+[
+  { "id": "ahmedabad", "name": "Ahmedabad" },
+  { "id": "goa", "name": "Goa" },
+  { "id": "mumbai", "name": "Mumbai" },
+  { "id": "new-delhi", "name": "New Delhi" },
+  { "id": "palasa", "name": "Palasa" },
+  { "id": "surat", "name": "Surat" },
+  { "id": "udaipur", "name": "Udaipur" },
+  { "id": "vizianagaram", "name": "Vizianagaram" }
+]
