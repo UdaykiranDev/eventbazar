@@ -147,9 +147,9 @@ const Footer = () => {
             <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: "2.2" }}>
               {serviceLinks.map((item, index) => (
                 <li key={index}>
-                  <a href="#" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>
+                  <span style={{ color: "rgba(255,255,255,0.9)" }}>
                     {item}
-                  </a>
+                  </span>
                 </li>
               ))}
             </ul>
@@ -172,9 +172,9 @@ const Footer = () => {
             <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: "2.2" }}>
               {cities.map((city, index) => (
                 <li key={index}>
-                  <a href="#" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>
+                  <span style={{ color: "rgba(255,255,255,0.9)" }}>
                     {city}
-                  </a>
+                  </span>
                 </li>
               ))}
             </ul>
@@ -197,9 +197,9 @@ const Footer = () => {
             <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: "2.2" }}>
               {aboutLinks.map((item, index) => (
                 <li key={index}>
-                  <a href="#" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>
+                  <span style={{ color: "rgba(255,255,255,0.9)" }}>
                     {item}
-                  </a>
+                  </span>
                 </li>
               ))}
             </ul>
@@ -221,12 +221,12 @@ const Footer = () => {
             </h5>
             <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: "2.2" }}>
               <li>
-                <a href="#" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>
+                <a href="mailto:vendors@eventbazar.com" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>
                   vendors@eventbazar.com
                 </a>
               </li>
               <li>
-                <a href="#" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>
+                <a href="tel:+917436044777" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>
                   +91 74360 44777
                 </a>
               </li>
@@ -248,12 +248,12 @@ const Footer = () => {
             </h5>
             <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: "2.2" }}>
               <li>
-                <a href="#" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>
+                <a href="mailto:info@eventbazar.com" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>
                   info@eventbazar.com
                 </a>
               </li>
               <li>
-                <a href="#" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>
+                <a href="tel:+917435044777" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>
                   +91 74350 44777
                 </a>
               </li>
@@ -274,9 +274,9 @@ const Footer = () => {
           <div className="row align-items-center justify-content-between">
             <div className="col-md-6 col-sm-12">
               <div style={{ display: "flex", gap: "20px", flexWrap: "wrap", color: "rgba(255,255,255,0.9)" }}>
-                <a href="#" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>Privacy Policy</a>
-                <a href="#" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>Terms & Conditions</a>
-                <a href="#" style={{ color: "rgba(255,255,255,0.9)", textDecoration: "none" }}>Disclaimer</a>
+                <span style={{ color: "rgba(255,255,255,0.9)" }}>Privacy Policy</span>
+                <span style={{ color: "rgba(255,255,255,0.9)" }}>Terms & Conditions</span>
+                <span style={{ color: "rgba(255,255,255,0.9)" }}>Disclaimer</span>
               </div>
             </div>
 
